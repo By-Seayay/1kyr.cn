@@ -1,0 +1,28 @@
+baseURL: https://1kyr.cn/
+languageCode: en-us
+title: 1KYR
+theme: "PaperMod"
+params:
+    homeInfoParams:
+        Title: 1000 YEARS
+        Content: Powered by Seayay & Siyuan Sennen
+
+    socialIcons:
+        - name: "github"
+          url: "https://github.com/By-Seayay/1kyr.cn"
+
+        - name: "email"
+          url: "mailto:cuteflowerpanda@outlook.com"
+
+        - name: "bilibili"
+          url: "https://space.bilibili.com/54907459"
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: https://blog.seayay.top
+      weight: 10
+    - identifier: hfpro
+      name: Heart Fire Project
+      url: https://hfpro.top
+      weight: 1
